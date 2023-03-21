@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bej_c2_s6_testing_controller_layer_sessiondemo-master.iml" filepath="$PROJECT_DIR$/.idea/bej_c2_s6_testing_controller_layer_sessiondemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bej_c2_s6_testing_controller_layer_sessiondemo-master/customer.iml" filepath="$PROJECT_DIR$/bej_c2_s6_testing_controller_layer_sessiondemo-master/customer.iml" />
+    </modules>
+  </component>
+</project>

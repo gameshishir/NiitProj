@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bej_c2_s2_rest_api_jpa_mysql_sessiondemo-master/UserService.iml" filepath="$PROJECT_DIR$/bej_c2_s2_rest_api_jpa_mysql_sessiondemo-master/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bej_c2_s2_rest_api_jpa_mysql_sessiondemo-master.iml" filepath="$PROJECT_DIR$/.idea/bej_c2_s2_rest_api_jpa_mysql_sessiondemo-master.iml" />
+    </modules>
+  </component>
+</project>
